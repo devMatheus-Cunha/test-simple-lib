@@ -5,7 +5,7 @@ const {
 describe('Object to query string', () => {
   it('should create a valid query string when an object provided', () => {
     const obj = {
-      name: 'Matheus',
+      name: "Matheus",
       profession: "developer"
     }
 
