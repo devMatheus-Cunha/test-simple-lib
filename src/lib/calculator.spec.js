@@ -1,6 +1,6 @@
-const {
+import {
   sum
-} = require("./calculator")
+} from "./calculator"
 
 it("should sum 2 and 2 the result must be 4", () => {
   //! validation if the test is working
